@@ -1,15 +1,3 @@
-<p align="center">
-  <a href="#">
-    <img alt="mern-app-generator" src="https://www.mindinventory.com/blog/wp-content/uploads/2021/06/mern-stack.png" />
-  </a>
-</p>
-<h3 align="center">Create, build and deploy MERN stack application.</h3>
-
-## Introduction
-A Fullstack MERN Support Ticket System with Redux Toolkit.
-![MERN Stack](https://miro.medium.com/max/1400/1*u8xh3we2xdp9piDGFpaHSg.png)
-![MERN Architerure](https://www.bocasay.com/wp-content/uploads/2020/03/MERN-stack-1.png)
-
 ## Getting Started
 
 
