@@ -22,12 +22,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [Postman](https://www.postman.com/)
   Postman is an application used for API testing.
 
-
-### Deployed On
-* [HEROKU](https://heroku.com/)
-  
-  [Support Ticket App](https://support-desk-mern-arifmd.herokuapp.com/)
-
 ### Installation
 
 ### .env
@@ -81,5 +75,4 @@ Inside of `/backend/controllers/ticketController.js` are a collection of.
 - **GET** `/api/tickets` - Get all the tickets of logged in user while passing the right `Authorization` `Bearer Token`.
 - **POST** `/api/tickets` - Create a new ticket, requires a **URL-encoded** data in the **Body** containing key value of { product, description }
 - **GET** `/api/tickets/:id` - Get the particular ticket detail  while passing the right `Authorization` `Bearer Token`.
-- 
-[Postman](https://learning.postman.com/docs/sending-requests/requests/#sending-body-data)
+  
